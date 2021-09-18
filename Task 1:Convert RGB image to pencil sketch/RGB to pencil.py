@@ -3,7 +3,7 @@ import cv2
 from IPython.display import Image
 
 #LOADING THE IMAGE
-i="panther.jpg"
+i=" "  #any image_name in the format jpg/png 
 img=cv2.imread(i)
 print("Original_image")
 Image(filename=i)
