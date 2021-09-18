@@ -6,3 +6,7 @@ This program read a RGB fomattted image and then convert it to a grayscale image
 Necessary library: Open-cv
 
 Platfrom: Jupyter Notebook
+
+Video:
+https://user-images.githubusercontent.com/59734392/133893274-55d3101a-9b0b-44a2-88fe-d7653aa00901.mp4
+
